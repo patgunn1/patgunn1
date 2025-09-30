@@ -1,4 +1,4 @@
-## Hello I'm Pat!
+## Hello!
 
 **About me:**
 - MSc Statistics student at Imperial College London.
